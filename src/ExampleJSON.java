@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//cc
 public class ExampleJSON {
 
 	public static void main(String[] args) {
